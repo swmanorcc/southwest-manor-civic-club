@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle border -->
+  <circle cx="100" cy="100" r="95" fill="#F5F5F5" stroke="#2E7D32" stroke-width="10" />
+  
+  <!-- Stylized tree -->
+  <rect x="95" y="80" width="10" height="60" fill="#8D6E63" /> <!-- Trunk -->
+  <path d="M100 40 L70 80 L130 80 Z" fill="#2E7D32" /> <!-- Top foliage -->
+  <path d="M100 60 L80 100 L120 100 Z" fill="#2E7D32" /> <!-- Middle foliage -->
+  <path d="M100 80 L90 120 L110 120 Z" fill="#2E7D32" /> <!-- Bottom foliage -->
+  
+  <!-- Rooftops -->
+  <path d="M40 140 L60 120 L80 140 Z" fill="#F9A825" /> <!-- Left roof -->
+  <path d="M120 140 L140 120 L160 140 Z" fill="#F9A825" /> <!-- Right roof -->
+  
+  <!-- Club Name -->
+  <text x="100" y="165" font-family="Montserrat" font-size="14" font-weight="bold" text-anchor="middle" fill="#333333">Southwest Manor</text>
+  <text x="100" y="180" font-family="Montserrat" font-size="14" font-weight="bold" text-anchor="middle" fill="#333333">Civic Club</text>
+  
+  <!-- Tagline -->
+  <text x="100" y="195" font-family="Playfair Display" font-size="12" font-style="italic" text-anchor="middle" fill="#26A69A">Neighbors Working Together</text>
+</svg>
